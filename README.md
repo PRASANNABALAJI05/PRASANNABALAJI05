@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PRASANNABALAJI05
-- 👀 I’m interested in DATA SCIENCE
+- 👀 I’m interested in JAVA DEVELOPMENT
 - 🌱 I’m currently learning ENGINGEERING
 - 📫 balajiprasanna280@gmail.com
-- 😄 Pronouns: he/him
+-  Pronouns: he/him
 
 
 <!---
