@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PRASANNABALAJI05
+- 👋 Hi, I’m PRASANNA BALAJI
 - 👀 I’m interested in JAVA DEVELOPMENT
 - 🌱 I’m currently learning ENGINGEERING
 - 📫 balajiprasanna280@gmail.com
